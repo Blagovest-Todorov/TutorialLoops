@@ -11,8 +11,15 @@ namespace _07.loops
 
         static void Main(string[] args)
         {
-            
-          
+
+            while (true)
+            {
+                if (true)
+                {
+                    //To Do
+                    break;
+                }
+            }
         }
 
 
