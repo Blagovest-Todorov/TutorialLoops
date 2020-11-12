@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\DataTypes\06.loops\bin\Debug\netcoreapp3.1\07.loops.exe
+C:\Users\Bla\source\repos\DataTypes\06.loops\bin\Debug\netcoreapp3.1\07.loops.deps.json
+C:\Users\Bla\source\repos\DataTypes\06.loops\bin\Debug\netcoreapp3.1\07.loops.runtimeconfig.json
+C:\Users\Bla\source\repos\DataTypes\06.loops\bin\Debug\netcoreapp3.1\07.loops.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DataTypes\06.loops\bin\Debug\netcoreapp3.1\07.loops.dll
+C:\Users\Bla\source\repos\DataTypes\06.loops\bin\Debug\netcoreapp3.1\07.loops.pdb
+C:\Users\Bla\source\repos\DataTypes\06.loops\obj\Debug\netcoreapp3.1\07.loops.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DataTypes\06.loops\obj\Debug\netcoreapp3.1\07.loops.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DataTypes\06.loops\obj\Debug\netcoreapp3.1\07.loops.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DataTypes\06.loops\obj\Debug\netcoreapp3.1\07.loops.dll
+C:\Users\Bla\source\repos\DataTypes\06.loops\obj\Debug\netcoreapp3.1\07.loops.pdb
+C:\Users\Bla\source\repos\DataTypes\06.loops\obj\Debug\netcoreapp3.1\07.loops.genruntimeconfig.cache
+C:\Users\Bla\source\repos\DataTypes\06.loops\obj\Debug\netcoreapp3.1\07.loops.csprojAssemblyReference.cache
